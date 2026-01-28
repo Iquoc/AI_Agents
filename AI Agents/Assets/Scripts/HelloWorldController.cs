@@ -13,7 +13,7 @@ public class HelloWorldController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.P))
         {
-            System.out.println("Hello World");
+            Debug.Log("Hello World");
         }
     }
 }
