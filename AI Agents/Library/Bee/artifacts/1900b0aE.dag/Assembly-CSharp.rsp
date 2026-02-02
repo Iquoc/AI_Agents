@@ -139,6 +139,7 @@
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"Library/PackageCache/com.unity.ext.nunit@d8c07649098d/net40/unity-custom/nunit.framework.dll"
+-r:"Library/PackageCache/com.unity.nuget.newtonsoft-json@eebc3d041427/Runtime/Newtonsoft.Json.dll"
 -r:"P:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
 -r:"P:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Managed/UnityEngine/UnityEditor.AdaptivePerformanceModule.dll"
 -r:"P:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Managed/UnityEngine/UnityEditor.AssetComplianceModule.dll"

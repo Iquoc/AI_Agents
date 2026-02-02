@@ -79,6 +79,16 @@
       "source": "builtin",
       "testable": false
     },
+    "com.unity.nuget.newtonsoft-json@3.0.2": {
+      "name": "com.unity.nuget.newtonsoft-json",
+      "displayName": "Newtonsoft Json",
+      "resolvedPath": "P:\\Users\\Iquoc Tran\\Documents\\Unity Games\\AI_Agents\\AI Agents\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@eebc3d041427",
+      "fingerprint": "eebc3d04142789d84e13afbe98e55f9be569a33d",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "3.0.2",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.test-framework@1.6.0": {
       "name": "com.unity.test-framework",
       "displayName": "Test Framework",

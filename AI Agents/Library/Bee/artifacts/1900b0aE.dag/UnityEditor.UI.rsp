@@ -145,6 +145,7 @@
 -r:"Library/PackageCache/com.unity.collab-proxy@1ec4e416a4af/Lib/Editor/unityplastic.dll"
 -r:"Library/PackageCache/com.unity.ext.nunit@d8c07649098d/net40/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.ext.nunit@d8c07649098d/net40/unity-custom/nunit.framework.dll"
+-r:"Library/PackageCache/com.unity.nuget.newtonsoft-json@eebc3d041427/Runtime/Newtonsoft.Json.dll"
 -r:"P:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"P:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
 -r:"P:/Program Files/Unity/Hub/Editor/6000.3.5f2/Editor/Data/Managed/UnityEngine/UnityEditor.AdaptivePerformanceModule.dll"
